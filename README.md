@@ -1,4 +1,12 @@
 # Taller de GitLab CI: Configuración de un Pipeline de Integración Continua
+---
+Juan Pablo Parrado 0000291023
+### **Evidencia de la ejecución del pipeline**
+
+A continuación se muestra la evidencia de que el pipeline de GitLab CI fue configurado y ejecutado correctamente. Tras crear el archivo `.gitlab-ci.yml` con las etapas `build` y `test`, GitLab detectó automáticamente la configuración y lanzó el pipeline correspondiente. En la imagen se puede ver cómo ambos jobs fueron reconocidos por el sistema y ejecutados en orden, demostrando que la integración continua está funcionando de manera adecuada dentro del proyecto.
+
+![Image_Alt]()
+---
 
 Este taller te guiará paso a paso para configurar un pipeline de Integración Continua (CI) utilizando GitLab CI. Aprenderás a crear un proyecto en GitLab, agregar un archivo de configuración `.gitlab-ci.yml`, y verificar la ejecución del pipeline.
 
